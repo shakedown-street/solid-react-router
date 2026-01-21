@@ -1,4 +1,4 @@
-import { CreateUserSchema, type CreateUserDTO, type UpdateUserDTO } from './users.dto';
+import { type CreateUserDTO, type UpdateUserDTO } from './users.dto';
 import type { IUserRepository } from './users.repository';
 
 export class UserService {
